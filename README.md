@@ -213,23 +213,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 ---
 
-#  Logros
+
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=tokyonight&no-frame=true&row=1&column=7"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=flat&no-frame=true&row=1&column=7"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=flat&no-frame=true&row=1&column=7"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
