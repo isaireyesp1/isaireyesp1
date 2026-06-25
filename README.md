@@ -3,7 +3,6 @@
 <img width="100%" src="https://github.com/user-attachments/assets/3c4eae90-1eea-438e-8a54-dd153250b5e6"/>
 
 
-
 ###  Desarrollador Full Stack | Ingeniero Backend | Arquitecto de Software
 
 
