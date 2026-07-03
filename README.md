@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/github/followers/isaireyesp1?style=for-the-badge&label=Seguidores"/>
 <img src="https://img.shields.io/github/stars/isaireyesp1?style=for-the-badge&label=Estrellas"/>
 
+<br>
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-💖-pink)](https://github.com/sponsors/isaireyesp1)
+
 </div>
 
 ---
