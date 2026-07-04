@@ -16,6 +16,8 @@
 <br>
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-pink)](https://github.com/sponsors/isaireyesp1)
+<img src="https://komarev.com/ghpvc/?username=isaireyesp1&label=Visitas&style=flat-square&color=58A6FF"/>
+
 
 </div>
 
