@@ -175,12 +175,12 @@ Sistema empresarial para gestión de procesos internos.
 
 <div align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true&cache_seconds=24">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true&cache_seconds=73"/>
+<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true&cache_seconds=274">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true&cache_seconds=763"/>
 </a>
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true&cache_seconds=734">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true&cache_seconds=23"/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true&cache_seconds=7374">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true&cache_seconds=236"/>
 </a>
 
 </div>
@@ -191,7 +191,7 @@ Sistema empresarial para gestión de procesos internos.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&cache_seconds=12"/>
+<img src="https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&cache_seconds=172"/>
 
 </div>
 
@@ -204,15 +204,15 @@ Sistema empresarial para gestión de procesos internos.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-dark&hide_border=true&cache_seconds=13"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-dark&hide_border=true&cache_seconds=173"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=13"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=713"
   />
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=12"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=172"
   />
 </picture>
 
