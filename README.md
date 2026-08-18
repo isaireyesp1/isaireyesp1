@@ -191,7 +191,7 @@ Sistema empresarial para gestión de procesos internos.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&cache_seconds=9256"/>
+<img src="https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&cache_seconds=1256"/>
 
 </div>
 
@@ -205,7 +205,7 @@ Sistema empresarial para gestión de procesos internos.
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaireyesp1&theme=vue"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaireyesp1&theme=vue&cache_seconds=3725"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaireyesp1&theme=vue&cache_seconds=325"/>
 
 </p>
 
@@ -213,15 +213,15 @@ Sistema empresarial para gestión de procesos internos.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-dark&hide_border=true&cache_seconds=2257"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-dark&hide_border=true&cache_seconds=227"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=5279"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=279"
   />
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=2795"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=275"
   />
 </picture>
 
