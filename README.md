@@ -175,12 +175,12 @@ Sistema empresarial para gestión de procesos internos.
 
 <div align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true&cache_seconds=576">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true&cache_seconds=459"/>
+<a href="https://github-stats-extended.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true&cache_seconds=5726">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true&cache_seconds=4259"/>
 </a>
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true&cache_seconds=547">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true&cache_seconds=465"/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true&cache_seconds=5247">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true&cache_seconds=4265"/>
 </a>
 
 </div>
