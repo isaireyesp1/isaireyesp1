@@ -192,7 +192,7 @@ Sistema empresarial para gestión de procesos internos.
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=isaireyesp1&cache_seconds=2242"/>
+  <img src="https://streak-stats.demolab.com/?user=isaireyesp1&cache_seconds=2232323232"/>
  </p>
 
 
