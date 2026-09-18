@@ -189,11 +189,13 @@ Sistema empresarial para gestión de procesos internos.
 
 #  Racha de Contribuciones
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&cache_seconds=2346"/>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=isaireyesp1&cache_seconds=2242"/>
+ </p>
+
+
 
 ---
 
