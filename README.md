@@ -273,14 +273,23 @@ Sistema empresarial para gestión de procesos internos.
 
 ---
 
-#  Contacto
 
 
 
-|                              📧 Correo                              |                           🐙 GitHub                          |
-| :-----------------------------------------------------------------: | :----------------------------------------------------------: |
-| **[Developer.SR.IRP@gmail.com](mailto:Developer.SR.IRP@gmail.com)** | **[github.com/isaireyesp1](https://github.com/isaireyesp1)** |
 
+## 📬 Contacto
+
+<div align="center">
+
+<a href="mailto:Developer.SR.IRP@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-Developer.SR.IRP%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/isaireyesp1">
+  <img src="https://img.shields.io/badge/GitHub-isaireyesp1-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
