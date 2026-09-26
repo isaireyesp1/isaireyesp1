@@ -277,13 +277,10 @@ Sistema empresarial para gestión de procesos internos.
 
 
 
-###  Correo
+|                              📧 Correo                              |                           🐙 GitHub                          |
+| :-----------------------------------------------------------------: | :----------------------------------------------------------: |
+| **[Developer.SR.IRP@gmail.com](mailto:Developer.SR.IRP@gmail.com)** | **[github.com/isaireyesp1](https://github.com/isaireyesp1)** |
 
-**[Developer.SR.IRP@gmail.com](mailto:Developer.SR.IRP@gmail.com)**
-
-###  GitHub
-
-**github.com/isaireyesp1**
 
 ---
 
@@ -291,7 +288,7 @@ Sistema empresarial para gestión de procesos internos.
 
 #  "Construir Simple. Escalar Todo."
 
-###  Isai Reyes Peña
+###  Isai Reyes P
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:7C3AED&section=footer"/>
 
